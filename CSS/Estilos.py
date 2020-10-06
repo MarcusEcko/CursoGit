@@ -1,0 +1,3 @@
+color = "azul"
+
+print(color)
